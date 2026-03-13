@@ -1,0 +1,49 @@
+American Offshore Whaling Logbook Data
+----------------------------------------------
+
+An interactive data viewer for this database is available on the Whaling History website.
+https://whalinghistory.org/av/logs/aowl/
+
+The database description is available on the Whaling History website.
+https://whalinghistory.org/av/logs/aowl/about/
+
+
+Creative Commons License
+
+American Offshore Whaling Logbook Data by New Bedford Whaling Museum, Nantucket Historical Association, and Mystic Seaport Museum, Inc. is licensed under a Creative Commons Attribution 4.0 International License. Permissions beyond the scope of this license may be available at https://whalinghistory.org/contact/.
+
+
+Preferred citation
+
+American Offshore Whaling Logbook Data, https://whalinghistory.org, New Bedford Whaling Museum, Nantucket Historical Association, and Mystic Seaport Museum, Inc.
+
+
+Format
+
+This download package includes the database in a single file as tab-delimited text. The file has column names in the first row and 468,249 data rows. It is UTF-8 encoded with Unix line endings between records and no line breaks embedded within any data. 
+
+
+Additions & corrections
+
+Users who have facts to add or who discover errors in the database are encouraged to submit them. We plan to update the online database annually. https://whalinghistory.org/participate/corrections/
+
+
+Columns
+
+0	Unique sequence number
+1	VoyageID
+2	Lat
+3	Lon
+4	Day
+5	Month
+6	Year
+7	Encounter
+8	Species
+9	NStruck
+10	NTried
+11	PlaceName
+12	Source
+13	Remarks
+
+Column Definitions & Code Tables are available on the Whaling History website.
+https://whalinghistory.org/av/logs/aowl/columns/
